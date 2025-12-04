@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "46259c944581ea6b",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ba5b20328f4fb55",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a276463bc7aa533e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "38e67949becc856c",
+    "type": "split",
+    "children": [
+      {
+        "id": "086e6d3dc5c7f5e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "14fea954cefcb1c4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f2e5b8dcc64dd576",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "49519f7fc58f64ea",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "starred"
+            }
+          },
+          {
+            "id": "3944f566ee89b7a1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "25f8dec93748c492",
+    "type": "split",
+    "children": [
+      {
+        "id": "f16e4081a103efe9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d416f6e6b26bd79a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "foo/Israel.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Israel"
+            }
+          },
+          {
+            "id": "653c5265abb28140",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "foo/Israel.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Israel"
+            }
+          },
+          {
+            "id": "2517336cdd82a3c6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e2e46a052740898e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "foo/Israel.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Israel"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "14fea954cefcb1c4",
+  "lastOpenFiles": [
+    "Camp/Language Specific Lessons",
+    "Camp/Base Language Course",
+    "Camp",
+    "foo/pto.md",
+    "foo",
+    "foo/Israel.md",
+    "Sam.md",
+    "CCGR Notes.md",
+    "Leo Asks.md"
+  ]
+}
